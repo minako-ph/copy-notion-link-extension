@@ -1,0 +1,14 @@
+.copy-link-button {
+    background: initial;
+    border: initial;
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 1.2;
+    color: rgb(55, 53, 47);
+    padding: 8px;
+}
+
+.copy-link-button:hover {
+    background: rgba(55, 53, 47, 0.08);
+    transition: background 20ms ease-in 0s;
+}
